@@ -14,21 +14,21 @@ const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#1565c0',
-      light: '#40c4ff',
-      dark: '#0d47a1',
-      contrastText: '#e0e0e0',
+      main: '#FFAEFA',
+      light: '##FFAEFA',
+      dark: '#FFAEFA',
+      contrastText: '##000000',
     },
     secondary: {
-      main: '#78909c',
+      main: '#000000',
       light: '#ff0700',
       dark: '#ff1000',
     },
     text: {
-      primary: '#263238',
-      secondary: '#9e9e9e',
+      primary: '#000',
+      secondary: '#ffff',
       hint: '#ffb74d',
-      disabled: '#bdbdbd',
+      disabled: '#0ebd3a',
     },
     error: {
       main: '#ff3c00',
